@@ -10,9 +10,17 @@ This project walks through a complete ML pipeline — from data exploration and 
 
 ---
 
-## Project Output
+## 🎬 Live Demo
+
+Link: https://house-price-prediction-sj.streamlit.app/
+
+---
+
+## 📤 Project Output
 
 ![app](image/app2.png)
+
+---
 
 ## 🗂️ Project Structure
 
